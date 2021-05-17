@@ -16,7 +16,12 @@ html {
 }
 
 body {
-    font: normal 75% Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    color: #000;
 }
 
 canvas {
@@ -29,10 +34,19 @@ h1 {
 }
 
 .servicios {
-    padding: 80px;
+    padding: 40px auto;
     background-color: red;
     /* For browsers that do not support gradients */
     background-image: linear-gradient(#fff, #f6fdfb);
+}
+
+.information-zone {
+    text-align: center;
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    margin-bottom: 10px!important;
 }
 
 .social {
@@ -74,9 +88,42 @@ h1 {
     background: linear-gradient( 84.89deg, #04a5e7, #1582c6);
 }
 
+.btn-chain-social {
+    margin-top: 50px;
+}
+
+.card-body.second {
+    padding-top: 44px;
+}
+
+.title {
+    text-align: center;
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    color: #000;
+}
+
+.subtitle {
+    font-family: Circular Std;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+}
+
+.title-small {
+    text-align: center;
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+}
+
 .btn-chain-social a {
     margin-top: 20px;
-    margin: 20px 20px 0 20px;
+    margin: 20px 10px 0 10px;
     width: 200px;
     text-align: center;
     padding: 15px;
@@ -116,7 +163,7 @@ h1 {
 .servicios h2 {
     padding-top: 10px;
     padding-bottom: 10px;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
 }
 
 .servicios span {
