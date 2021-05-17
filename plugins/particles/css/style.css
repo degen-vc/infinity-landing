@@ -76,14 +76,14 @@ h1 {
 
 .btn-chain-social a {
     margin-top: 20px;
+    margin: 20px 20px 0 20px;
     width: 200px;
     text-align: center;
     padding: 15px;
     border-radius: 35px;
-    border: 1px solid rgba(0, 0, 0, 0.7);
     cursor: pointer;
     text-decoration: none;
-    background: black;
+    background: linear-gradient( 84.89deg, #04a5e7, #1582c6);
     color: white;
     font-size: 18px;
 }
@@ -93,10 +93,9 @@ h1 {
     text-align: center;
     padding: 15px;
     border-radius: 35px;
-    border: 1px solid rgba(0, 0, 0, 0.7);
+    background: linear-gradient( 84.89deg, #04a5e7, #1582c6);
     cursor: pointer;
     text-decoration: none;
-    background: black;
     color: white!important;
     font-size: 8px;
 }
