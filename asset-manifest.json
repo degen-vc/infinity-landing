@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/infinity-landing/static/css/main.d77a2feb.chunk.css",
+    "main.css": "/infinity-landing/static/css/main.8a61907e.chunk.css",
     "main.js": "/infinity-landing/static/js/main.c896c276.chunk.js",
     "main.js.map": "/infinity-landing/static/js/main.c896c276.chunk.js.map",
     "runtime-main.js": "/infinity-landing/static/js/runtime-main.1a0a279d.js",
@@ -10,13 +10,13 @@
     "static/js/3.8d6658be.chunk.js": "/infinity-landing/static/js/3.8d6658be.chunk.js",
     "static/js/3.8d6658be.chunk.js.map": "/infinity-landing/static/js/3.8d6658be.chunk.js.map",
     "index.html": "/infinity-landing/index.html",
-    "static/css/main.d77a2feb.chunk.css.map": "/infinity-landing/static/css/main.d77a2feb.chunk.css.map",
+    "static/css/main.8a61907e.chunk.css.map": "/infinity-landing/static/css/main.8a61907e.chunk.css.map",
     "static/js/2.5a953a58.chunk.js.LICENSE.txt": "/infinity-landing/static/js/2.5a953a58.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1a0a279d.js",
     "static/js/2.5a953a58.chunk.js",
-    "static/css/main.d77a2feb.chunk.css",
+    "static/css/main.8a61907e.chunk.css",
     "static/js/main.c896c276.chunk.js"
   ]
 }
