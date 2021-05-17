@@ -114,6 +114,7 @@ h1 {
 }
 
 .title-small {
+    margin-top: 60px;
     text-align: center;
     font-family: Circular Std;
     font-style: normal;
