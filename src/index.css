@@ -3,23 +3,74 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    font-family: Circular Std;
 }
 
 code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
 
+.social-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 60px;
+    margin: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 2px solid rgba(0, 0, 0, 0.1);
+}
+
 @media screen and (max-width: 440px) {
-    .icons {
-        flex-wrap: wrap;
-        justify-content: center;
-    }
-    .icons a {
+    .social-icon {
+        margin: 10px;
         height: 40px;
         width: 40px;
     }
-    .icons a .footer-icon {
-        height: 30px;
-        width: 30px;
-    }
+}
+
+.social-icon:hover {
+    opacity: 0.8,
+}
+
+.App {
+    display: flex;
+    justify-content: center;
+}
+
+.coinesco {
+    height: 32px;
+    width: 32px;
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url('./coingecko.png');
+}
+
+.medium {
+    height: 18px;
+    width: 32px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url('./medium.png');
+}
+
+.telegram {
+    height: 24px;
+    width: 28px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url('./telegram.png');
+}
+
+.twitter {
+    height: 24px;
+    width: 30px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url('./twitter.png');
 }
