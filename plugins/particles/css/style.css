@@ -27,6 +27,7 @@ body {
 .font-type {
     font-family: Circular Std;
     font-weight: 400;
+    /* font-size: 16px; */
     font-stretch: normal;
     font-style: normal;
 }
@@ -132,7 +133,7 @@ h1 {
 .btn-chain-social a {
     margin-top: 20px;
     margin: 20px 10px 0 10px;
-    width: 200px;
+    width: 230px;
     text-align: center;
     padding: 15px;
     border-radius: 35px;
