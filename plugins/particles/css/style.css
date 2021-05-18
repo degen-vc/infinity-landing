@@ -24,6 +24,13 @@ body {
     color: #000;
 }
 
+.font-type {
+    font-family: Circular Std;
+    font-weight: 400;
+    font-stretch: normal;
+    font-style: normal;
+}
+
 canvas {
     display: block;
     position: absolute;
