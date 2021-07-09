@@ -23,6 +23,10 @@ code {
 }
 
 @media screen and (max-width: 440px) {
+    .logo-infinity {
+        height: 100px!important;
+        width: 200px!important;
+    }
     .social-icon {
         margin: 10px;
         height: 40px;
