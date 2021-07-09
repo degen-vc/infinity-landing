@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/infinity-landing/static/css/main.022e4b08.chunk.css",
+    "main.css": "/infinity-landing/static/css/main.d04c01e2.chunk.css",
     "main.js": "/infinity-landing/static/js/main.3c8db002.chunk.js",
     "main.js.map": "/infinity-landing/static/js/main.3c8db002.chunk.js.map",
     "runtime-main.js": "/infinity-landing/static/js/runtime-main.3655aa43.js",
@@ -10,14 +10,14 @@
     "static/js/3.e595aa8f.chunk.js": "/infinity-landing/static/js/3.e595aa8f.chunk.js",
     "static/js/3.e595aa8f.chunk.js.map": "/infinity-landing/static/js/3.e595aa8f.chunk.js.map",
     "index.html": "/infinity-landing/index.html",
-    "static/css/main.022e4b08.chunk.css.map": "/infinity-landing/static/css/main.022e4b08.chunk.css.map",
+    "static/css/main.d04c01e2.chunk.css.map": "/infinity-landing/static/css/main.d04c01e2.chunk.css.map",
     "static/js/2.12565f03.chunk.js.LICENSE.txt": "/infinity-landing/static/js/2.12565f03.chunk.js.LICENSE.txt",
     "static/media/styles.scss": "/infinity-landing/static/media/CircularStd-MediumItalic.bfe15859.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.3655aa43.js",
     "static/js/2.12565f03.chunk.js",
-    "static/css/main.022e4b08.chunk.css",
+    "static/css/main.d04c01e2.chunk.css",
     "static/js/main.3c8db002.chunk.js"
   ]
 }
